@@ -1,0 +1,6 @@
+[book]
+authors = ["The Rust Windows Working Group"]
+language = "en"
+multilingual = false
+src = "src"
+title = "WinAPI in Rust"
